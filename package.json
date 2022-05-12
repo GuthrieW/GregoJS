@@ -1,0 +1,18 @@
+{
+  "name": "grego-js",
+  "version": "0.0.1",
+  "description": "A command line utility for creating merge conflicts in a local git repository",
+  "main": "index.ts",
+  "repository": "git@github.com:GuthrieW/GregoJS.git",
+  "author": "Wesley Guthrie <wesleyeguthrie@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "commander": "^9.2.0",
+    "simple-git": "^3.7.1",
+    "typescript": "^4.6.4"
+  },
+  "devDependencies": {
+    "@types/node": "^17.0.32"
+  }
+}
